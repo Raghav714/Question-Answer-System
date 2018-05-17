@@ -6,5 +6,11 @@ https://nlp.stanford.edu/software/openie.html and https://nlp.stanford.edu/softw
 
 # PgSQL
 You need to download pgsql in your system and conf it according to your need.
-# sudo apt-get install postgresql
+sudo apt-get install postgresql
 
+create the database and table as given in the code.
+
+# how to run it
+$ python entry.py
+
+$ python askques.py
