@@ -14,3 +14,5 @@ create the database and table as given in the code.
 $ python entry.py
 
 $ python askques.py
+# Result
+you can see few result of the system in result.txt
