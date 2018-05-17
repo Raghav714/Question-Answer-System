@@ -1,0 +1,18 @@
+import os 
+os.system('python textprocessor.py -f corpus/azad.txt')
+os.system('python textprocessor.py -f corpus/bal.txt')
+os.system('python textprocessor.py -f corpus/bhagar.txt')
+os.system('python textprocessor.py -f corpus/azad.txt')
+os.system('python textprocessor.py -f corpus/bal.txt')
+os.system('python textprocessor.py -f corpus/bhagar.txt')
+os.system('python textprocessor.py -f corpus/kudiram.txt')
+os.system('python textprocessor.py -f corpus/lala.txt')
+os.system('python textprocessor.py -f corpus/maha.txt')
+os.system('python textprocessor.py -f corpus/mirza.txt')
+os.system('python textprocessor.py -f corpus/ramprasad.txt')
+os.system('python textprocessor.py -f corpus/nehru.txt')
+os.system('python textprocessor.py -f corpus/rasbihari.txt')
+os.system('python textprocessor.py -f corpus/saukat.txt')
+os.system('python textprocessor.py -f corpus/sbose.txt')
+os.system('python textprocessor.py -f corpus/udam.txt')
+
