@@ -1,5 +1,11 @@
 # Question-Answer-System
-In this Project I have used Standford Tools to extract the named entity and relation between those entity
+It was the part of CS200 my 4th Semester Course work. The domain on which the system was trained was freedom fighters biography.
+The whole system was divided into 2 parts that is text processor and question processor.
+
+In Text processor the Standford Tools to extract the named entity and relation between those entity was used. The obtanied tuple was stored in PGSQL database. This is the method by which i converted the unstructed data to structed data.
+
+In question processor first the question were classified into o
+
 
 In this You Need to download the NER and OPENIE tools from standford site given on below link
 https://nlp.stanford.edu/software/openie.html and https://nlp.stanford.edu/software/CRF-NER.shtml
